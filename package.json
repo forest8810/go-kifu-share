@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.98.0",
-    "nanoid": "^5.1.6",
-    "next": "16.1.6",
-    "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "nanoid": "^5.1.16",
+    "next": "^16.4.2",
+    "react": "^19.2.9",
+    "react-dom": "^19.2.9"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -22,7 +22,7 @@
     "@types/react-dom": "^19",
     "@vitejs/plugin-react": "^5.1.4",
     "eslint": "^9",
-    "eslint-config-next": "16.1.6",
+    "eslint-config-next": "^16.4.2",
     "tailwindcss": "^4",
     "typescript": "^5",
     "vitest": "^4.0.18"
